@@ -10,3 +10,8 @@
 - Gender:Female survival rate (~74%) was much higher than male (~18%).
 - Class: 1st Class passengers had the best survival probability.
 - Correlation:Strong relationship between 'Fare' and 'Survival'.
+
+
+## Dataset Source
+The analysis is performed on the "Titanic Dataset", which is a standard dataset for binary classification and EDA.
+- **Source:** [Titanic CSV on GitHub](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
